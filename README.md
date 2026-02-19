@@ -18,4 +18,4 @@ I'm 010ender56, aka ender, a passionate web developer currently pursuing my stud
 ### Statistics
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=010ender56&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-> This is my new GitHub account. My previous account was locked due to 2FA loss and a lack of recovery methods.
+> This is my new GitHub account. My previous account, `010ender` was locked due to 2FA loss and a lack of recovery methods.
